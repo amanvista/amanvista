@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amanvista
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Aman Bisht
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me amanvista@gmail.com
 
 <!---
 amanvista/amanvista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
